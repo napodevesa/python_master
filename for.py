@@ -17,4 +17,4 @@
 #     print(contador)
 
 for i in range(10):
-    print(11 * i)
+    print(10 * i)
