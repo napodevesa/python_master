@@ -4,8 +4,8 @@ def run():
     #     print(letra)
 
     frase = input('Escribe una frase: ')
-    for caracter in frase:
-        print(caracter.upper())
+    for c in frase:
+        print(c.upper())
 
 
 if __name__ == '__main__':
